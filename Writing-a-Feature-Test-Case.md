@@ -4,7 +4,7 @@ Writing Automated Feature Test Cases
 Writing test cases
 ==================
 
-A *test suite* is a Python file whose name begins with test, like:
+A *test suite* is a Python file whose name begins with `test`, like:
 `test_name_of_the_test_suite.py`
 
 Topology definition
